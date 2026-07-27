@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "mcp-fs-workspace": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "./src", "./specs", "./skills"]
+    },
+    "mcp-fs-sources": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "./docs/novatech", "./data/retrieval-corpus"]
+    },
+    "mcp-git": {
+      "command": "python",
+      "args": ["-m", "mcp_server_git", "--repository", "."]
+    },
+    "mcp-memory": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-memory"]
+    },
+    "mcp-everything": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-everything"]
+    }
+  }
+}

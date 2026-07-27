@@ -1,0 +1,1 @@
+<!-- Skill planejada (Foundation). Ver "Exercício 2.3/1 - arvore-e-mapeamento-de-skills.md". A ser escrita: leitura/validação de configuração de ambiente centralizada em src/shared/config.ts, sem segredo hardcoded. -->

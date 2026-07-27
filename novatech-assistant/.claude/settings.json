@@ -1,0 +1,11 @@
+{
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "deny": [
+      "mcp__mcp-fs-sources__write_file",
+      "mcp__mcp-fs-sources__edit_file",
+      "mcp__mcp-fs-sources__move_file",
+      "mcp__mcp-fs-sources__create_directory"
+    ]
+  }
+}
