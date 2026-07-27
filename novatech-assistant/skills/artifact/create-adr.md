@@ -1,0 +1,1 @@
+<!-- Skill planejada (Artifact). Ver "Exercício 2.3/1 - arvore-e-mapeamento-de-skills.md". A ser escrita: receita para gerar um ADR em docs/adr/ (formato NNNN-titulo.md: Contexto, Decisão, Consequências, Alternativas). -->
